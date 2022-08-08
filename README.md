@@ -9,7 +9,7 @@ The jukeclock uses a Raspberry Pi 3 B+ as its "brain". The pi holds the python c
 https://drive.google.com/drive/folders/1FOIJPE0SSdSOIXMq1YoJwNLXz8gcPGIe?usp=sharing
 
 BOM: 
-CanaKit Raspberry Pi 3 B+:
+<br>CanaKit Raspberry Pi 3 B+:
 https://amzn.to/3QuzgFl
 
 Extra Large Push Button:
