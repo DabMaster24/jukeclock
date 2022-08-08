@@ -8,7 +8,7 @@ The jukeclock uses a Raspberry Pi 3 B+ as its "brain". The pi holds the python c
 *For more information, see the images, diagrams, and video demonstration.
 https://drive.google.com/drive/folders/1FOIJPE0SSdSOIXMq1YoJwNLXz8gcPGIe?usp=sharing
 
-BOM:
+BOM: 
 CanaKit Raspberry Pi 3 B+:
 https://amzn.to/3QuzgFl
 
