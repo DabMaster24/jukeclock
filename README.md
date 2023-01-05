@@ -25,6 +25,6 @@ USB Extension (for debugging):
 https://amzn.to/3A4vOMz
 
 ![Alt text](https://github.com/FortniteYoutuberx344/jukeclock/blob/master/Pictures_and_Videos/Images/IMG_2886.png?raw=true)
-`https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png`
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
 
 
