@@ -24,3 +24,5 @@ https://amzn.to/3Sxf9bB
 USB Extension (for debugging):
 https://amzn.to/3A4vOMz
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
